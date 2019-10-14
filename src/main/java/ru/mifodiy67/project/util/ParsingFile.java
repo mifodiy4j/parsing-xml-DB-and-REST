@@ -1,7 +1,7 @@
-package util;
+package ru.mifodiy67.project.util;
 
-import model.Box;
-import model.Item;
+import ru.mifodiy67.project.model.Box;
+import ru.mifodiy67.project.model.Item;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;

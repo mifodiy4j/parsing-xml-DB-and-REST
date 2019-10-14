@@ -1,4 +1,4 @@
-package model;
+package ru.mifodiy67.project.model;
 
 public class Box implements Comparable<Box> {
 
